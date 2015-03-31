@@ -38,3 +38,6 @@ logging.txt
 # my conf
 conf.py
 tags
+
+*.swp
+*.sublime-*
